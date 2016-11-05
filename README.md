@@ -3,6 +3,8 @@
 -------------------------------------------------------
 Screenshot :
 
+![3 2](https://cloud.githubusercontent.com/assets/22131343/20031212/667e9cd8-a3a6-11e6-8ed7-0f8ee19ec492.PNG)
+![3 1](https://cloud.githubusercontent.com/assets/22131343/20031213/6688a872-a3a6-11e6-8aac-27ced90f4941.PNG)
 
 -------------------------------------------------------
 * *Identitas Siswa* 
